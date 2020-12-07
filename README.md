@@ -5,8 +5,8 @@ Installation/Configuration/Execution Steps
 3. Import database/www_project.sql file in phpmyadmin to add all tables and data in database.
 4. Open index.php file in browser according to your wamp server.
 
-Admin Login Details
-Use the Same Login Form(Given on left Sidebar on front Page)
-Username: admin@admin.com
-Password: admin
+Admin Login Details.
+Use the Same Login Form(Given on left Sidebar on front Page).
+Username: admin@admin.com.
+Password: admin.
 
