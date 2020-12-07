@@ -9,3 +9,13 @@ Admin Login Details:
 Username: admin@admin.com
 Password: admin
 
+# Screenshots:
+![](Screenshots/first%20page.png)
+
+![](Screenshots/all%20books.png)
+
+![](Screenshots/one%20book.png)
+
+![](Screenshots/checkout.png)
+
+![](Screenshots/admin%20login.png)
